@@ -14,7 +14,7 @@ You can find some of my past [teaching materials on github](https://github.com/l
 
 ### Research Highlights 🧮🔬
 
-From grad school through several post docs, I did a decent amount of pure math research.
+I've done a decent amount of pure math research over the course of grad school and several post docs.
 
 - My research centered on integrable systems in symplectic geometry, a topic that lies at the intersection of mathematical physics, Lie theory, and differential and algebraic geometry.
 - My favourite research achievement is my paper on **Gradient-Hamiltonian vector fields.** Machine learning enthusiasts know about the *gradient*. Physics majors understand the *Hamiltonian*. Few know of the *gradient-Hamiltonian*, which is a special combination of both concepts. Ben Hoffman and I found some wonderful new applications of the gradient-Hamiltonian in geometry and mathematical physics by generalizing it to geometric spaces with singularities in our paper [Stratified Gradient Hamiltonian Vector Fields and Collective Integrable Systems](http://arxiv.org/abs/2008.13656). 
