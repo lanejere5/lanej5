@@ -1,6 +1,6 @@
 ### Hi! 
 
-
+I'm still building this.
 
 Other places you can find me:
 - [LinkedIn](https://linkedin.com/in/lanej5)
