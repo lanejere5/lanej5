@@ -1,3 +1,7 @@
+### Hi! 
+
+
+
 
 
 
@@ -9,4 +13,6 @@
 
 ### Teaching and Mentorship
 
-I've taught 10 university math courses and dozens of labs and tutorials. In total, approximately 2500 students. I've also spoken several times to the students at Canada Math Camp. During the pandemic I supervised an undergraduate research project that resulted in a paper. From this experience, I've learned how to overcome communication barriers and foster deeper understanding, of both mathematical concepts and between students and myself.
+I've taught 10 university math courses, led dozens of labs and tutorials, spoken in outreach seminars, and supervised student research projects. In total, I've worked with approximately 2500 students. From this experience, I've learned how to overcome communication barriers and foster deeper understanding, both of challenging mathematical concepts and between students and myself.
+
+You can find some of my past [teaching materials on github](https://github.com/lanej5/math).
