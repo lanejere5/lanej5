@@ -2,10 +2,9 @@
 
 
 
-
-
-
-
+Other places you can find me:
+- [LinkedIn](https://linkedin.com/in/lanej5)
+- [Twitter](https://twitter.com/__jeremylane__)
 
 ### Teaching and Mentorship
 
