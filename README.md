@@ -8,7 +8,7 @@ Other places you can find me:
 
 ### Teaching and Mentorship 🎓
 
-I've taught 10 university math courses, led dozens of labs and tutorials, spoken in outreach seminars, and supervised student research projects. In total, I've worked with approximately 2500 students. I'm passionate about overcoming communication barriers and fostering deeper understanding, of both challenging concepts and each other. 
+I've taught 10 university math courses, led dozens of labs and tutorials, spoken in outreach seminars, and supervised student research projects. In total, I've worked with approximately 2500 students. I'm passionate about overcoming communication barriers and fostering deeper understanding of challenging concepts and each other. 
 
 You can find some of my past [teaching materials on github](https://github.com/lanej5/math).
 
