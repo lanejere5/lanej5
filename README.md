@@ -5,13 +5,13 @@ I'm looking for work as a data scientist.
 Other places you can find me:
 - [LinkedIn](https://linkedin.com/in/lanej5)
 - [Twitter](https://twitter.com/__jeremylane__)
-- [My academic homepage](https://ms.mcmaster.ca/~lanej5/)
+- [Academic homepage](https://ms.mcmaster.ca/~lanej5/)
 
 ### Data science and machine learning
 
 My interest in data science started when I took Andrew Ng's Deep Learning specialization on Coursera back in 2018. Since then, I've worked on a few fun side projects to learn more:
 
-- (2019) I built [restricted Boltzmann machines and deep autoencoders for computer vision](https://github.com/lanej5/bm) from scratch with numpy and gave [a presentation about energy-based probabilistic models](https://github.com/lanej5/bm/blob/master/slides.pdf) in the machine learning seminar at the University of Geneva (where I was currently a postdoc).
+- (2019) I built [restricted Boltzmann machines and deep autoencoders for computer vision](https://github.com/lanej5/bm) from scratch with numpy and gave [a presentation about energy-based probabilistic models](https://github.com/lanej5/bm/blob/master/slides.pdf) in the machine learning seminar at the University of Geneva (where I was a postdoc at the time).
 - (Summer 2021) I automated part of the quote-generation process for the Montreal based start-up Promenaid.
 - (Winter 2022) I coded up some [Monte-Carlo search tree AI agents for the chess variant Onitama](https://github.com/lanej5/onitamAI).
 - (Spring 2022) I trained several collaborative filtering models for the H&M clothing recommender system Kaggle competition.
