@@ -1,8 +1,6 @@
 ### Welcome!
 
-I'm looking for work as a data scientist. Everything you should need to know about me can be found here!
-
-I've started a humble [data science blog](https://lanej5.github.io/fastpages/).
+I'm looking for work as a data scientist and using this page as my online resume. Everything you should need to know about me can be found here!
 
 Other places you can find me:
 - [LinkedIn](https://linkedin.com/in/lanej5)
@@ -19,6 +17,8 @@ My interest in data science started when I took Andrew Ng's Deep Learning specia
 - (Spring 2022) I trained several collaborative filtering models for the H&M clothing recommender system Kaggle competition.
 
 As I prepare to make the leap from academia to industry I've also been working hard to level up my programming, stats, modelling, and data analysis / SQL skills. 💪
+
+I've started a humble [data science blog](https://lanej5.github.io/fastpages/).
 
 ### Teaching and Mentorship 🎓
 
