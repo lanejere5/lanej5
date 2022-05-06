@@ -1,6 +1,8 @@
 ### Welcome!
 
-I'm looking for work as a data scientist. 
+I'm looking for work as a data scientist. Everything you should need to know about me can be found here!
+
+I've started a humble [data science blog](https://lanej5.github.io/fastpages/).
 
 Other places you can find me:
 - [LinkedIn](https://linkedin.com/in/lanej5)
