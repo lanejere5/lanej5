@@ -4,7 +4,7 @@ I'm looking for work as a data scientist and using this page as my online resume
 
 Other places you can find me:
 - [LinkedIn](https://linkedin.com/in/lanej5)
-- [Twitter](https://twitter.com/__jeremylane__)
+- [Twitter](https://twitter.com/__jeremy_lane__)
 - [Academic homepage](https://ms.mcmaster.ca/~lanej5/)
 - (new!) [blog](https://lanej5.github.io/fastpages/)
 
