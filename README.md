@@ -12,10 +12,11 @@ Other places you can find me:
 
 My interest in data science started when I took Andrew Ng's Deep Learning specialization on Coursera back in 2018. Since then, I've worked on a few fun side projects to learn more:
 
-- (2019) I built [restricted Boltzmann machines and deep autoencoders for computer vision](https://github.com/lanej5/bm) from scratch with numpy and gave [a presentation about energy-based probabilistic models](https://github.com/lanej5/bm/blob/master/slides.pdf) in the machine learning seminar at the University of Geneva (where I was a postdoc at the time).
-- (Summer 2021) I automated part of the quote-generation process for the Montreal based start-up Promenaid by deploying a MILP solver for the stock cutting problem.
-- (Winter 2022) I coded up some [Monte-Carlo search tree AI agents for the chess variant Onitama](https://github.com/lanej5/onitamAI).
+- (Spring 2022) I created a [dashboard for the 2022 MLB postseason race]((https://github.com/lanej5/mlb).
 - (Spring 2022) I trained several collaborative filtering models for the H&M clothing recommender system Kaggle competition.
+- (Winter 2022) I coded up some [Monte-Carlo search tree AI agents for the chess variant Onitama](https://github.com/lanej5/onitamAI).
+- (Summer 2021) I automated part of the quote-generation process for the Montreal based start-up Promenaid by deploying a MILP solver for the stock cutting problem.
+- (2019) I built [restricted Boltzmann machines and deep autoencoders for computer vision](https://github.com/lanej5/bm) from scratch with numpy and gave [a presentation about energy-based probabilistic models](https://github.com/lanej5/bm/blob/master/slides.pdf) in the machine learning seminar at the University of Geneva (where I was a postdoc at the time).
 
 As I prepare to make the leap from academia to industry I've also been working hard to level up my programming, stats, modelling, and data analysis / SQL skills. 💪
 
