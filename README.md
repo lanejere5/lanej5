@@ -20,7 +20,7 @@ My interest in data science started when I took Andrew Ng's Deep Learning specia
 
 As I prepare to make the leap from academia to industry I've also been working hard to level up my programming, stats, modelling, and data analysis / SQL skills. 💪
 
-I've started a humble [data science blog](https://lanej5.github.io/fastpages/).
+I've started a humble [blog](https://lanej5.github.io/fastpages/).
 
 ### Teaching and Mentorship 🎓
 
