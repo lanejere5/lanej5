@@ -1,6 +1,6 @@
 ### Hi! 👋
  
-I'm looking for work as a data scientist!
+I'm a mathematician and programmer who is looking for work as a data scientist!
 
 You can find a brief bio [over on my blog](https://lanej5.github.io/fastpages/about/).
 
