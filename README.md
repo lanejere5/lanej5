@@ -2,9 +2,7 @@
  
 I'm a mathematician and programmer who is looking for work as a data scientist!
 
-You can find a brief bio [over on my blog](https://lanej5.github.io/fastpages/about/).
-
-You can also find me on [LinkedIn](https://linkedin.com/in/lanej5), [Twitter](https://twitter.com/__jeremy_lane__), and on my [academic homepage](https://ms.mcmaster.ca/~lanej5/).
+You can also find me on [LinkedIn](https://linkedin.com/in/lanej5) and on my [academic homepage](https://ms.mcmaster.ca/~lanej5/).
 
 ### Highlights of my github
 
