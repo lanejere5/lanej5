@@ -2,4 +2,4 @@
  
 I'm a mathematician and programmer who is looking for work as a data scientist!
 
-You can also find me on [LinkedIn](https://linkedin.com/in/lanej5) and on my [academic homepage](https://ms.mcmaster.ca/~lanej5/).
+You can also find me on [LinkedIn](https://linkedin.com/in/lanej5).
