@@ -1,5 +1,7 @@
 ### Hi! 👋
- 
-I'm a mathematician specializing in machine learning, statistics, and geometry. I currently work at Amazon Ads as an Applied Scientist focusing on ad measurement.
 
-You can read more on [github pages](https://lanej5.github.io/).
+Here's some places you can learn more about me:
+
+- [About Me](https://lanej5.github.io/)
+- [Curriculum Vitae](https://lanej5.github.io/cv.html)
+- [LinkedIn](https://linkedin.com/in/lanej5)
